@@ -1,16 +1,29 @@
-## Olá, me chamo Isabela Fatima
+### Olá, me chamo Isabela Fatima 👋 
 
 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+
+###Skills
+![HTML](https://img.shields.io/badge/-HTML-e152aa?style=for-the-badge&logo=html5&labelColor=1f004e)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-e152aa?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=1f004e)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-e152aa?style=for-the-badge&logo=javascript&labelColor=1f004e)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-e152aa?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-e152aa?style=for-the-badge&logo=node.js&labelColor=1f004e)&nbsp;
+
+
+###Tools
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-e152aa?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=1f004e)&nbsp;
+![Git](https://img.shields.io/badge/-Git-e152aa?style=for-the-badge&logo=git&labelColor=1f004e)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-e152aa?style=for-the-badge&logo=github&labelColor=1f004e)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-e152aa?style=for-the-badge&logo=windows&labelColor=1f004e)&nbsp;
+![Linux](https://img.shields.io/badge/-linux-e152aa?style=for-the-badge&logo=linux&labelColor=1f004e)&nbsp;
+
+### Other Knowledge:
+![typescript](https://img.shields.io/badge/-typescript-e152aa?style=for-the-badge&logo=typescript&labelColor=1f004e)&nbsp;
+![MYSQL](https://img.shields.io/badge/-MYSQL-e152aa?style=for-the-badge&logo=MYSQL&labelColor=1f004e)&nbsp;
+![MYSQL](https://img.shields.io/badge/-MYSQL-e152aa?style=for-the-badge&logo=MYSQL&labelColor=1f004e)&nbsp;
+
+
 
 <div align="center" >
   <a href="https://github.com/llth04">
