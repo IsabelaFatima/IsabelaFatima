@@ -1,7 +1,12 @@
-<h3 align="center"> Olá, me chamo Isabela Fatima 👋 <h3>
+<h3 align="center"> Hi! my name's Isabela Fatima 👋 <h3>
   
 ##
 
+###   About Me:
+  
+  <p>Lorem</p>
+  
+  
 ### Main Skills:
 
 
@@ -27,6 +32,8 @@
 
 ## 
 
+### GitHub Analytics:
+  
 <div align="center">
   <a href="https://github.com/llth04">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=llth04&show_icons=true&theme=tokyonight"/> 
@@ -37,7 +44,7 @@
 ##
 
 ### Social Media
-<div align="center">   
+<div>   
     <a href="https://www.linkedin.com/in/isabela-fatima-4353601b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "isabelafatimadelimagx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <div>
