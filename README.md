@@ -1,5 +1,5 @@
-### Olá, me chamo Isabela Fatima 👋 
-
+<h3 align="center"> Olá, me chamo Isabela Fatima 👋 <h3>
+  
 ##
 
 ### Main Skills:
@@ -37,8 +37,9 @@
 ##
 
 ### Social Media
-
+<div align="center">   
+    <a href="https://www.linkedin.com/in/isabela-fatima-4353601b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "isabelafatimadelimagx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isabela-fatima-4353601b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div>
 
 
