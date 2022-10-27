@@ -1,4 +1,4 @@
-<h3 align="center"> Hi! my name's Isabela Fatima 👋 <h3>
+<h2 align="center"> Hi! my name's Isabela Fatima 👋 </h2>
   
 ##
 
@@ -14,7 +14,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-e152aa?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=1f004e&color=8C00FF)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-e152aa?style=for-the-badge&logo=javascript&labelColor=1f004e&color=8C00FF)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-e152aa?style=for-the-badge&logo=react&labelColor=1f004e&color=8C00FF)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-e152aa?style=for-the-badge&logo=node.js&labelColor=1f004e&color=8C00FF)&nbsp;
 
 ### Tools:
 
@@ -28,9 +27,16 @@
 
 ![typescript](https://img.shields.io/badge/-typescript-e152aa?style=for-the-badge&logo=typescript&labelColor=1f004e&color=8C00FF)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MYSQL-e152aa?style=for-the-badge&logo=MYSQL&labelColor=1f004e&color=8C00FF)&nbsp;
+
+### Studying:
+
+![Node.js](https://img.shields.io/badge/-Node.js-e152aa?style=for-the-badge&logo=node.js&labelColor=1f004e&color=8C00FF)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&labelColor=1f004e&color=8C00FF)&nbsp;
 
+
 ## 
+
+
 
 ### GitHub Analytics:
   
