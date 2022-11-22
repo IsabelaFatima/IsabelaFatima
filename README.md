@@ -2,9 +2,9 @@
   
 ##
 
-/* ###   About Me:
+###   About Me:
   
-  <p>Lorem</p>*/
+  
   
   
 ### Main Skills:
