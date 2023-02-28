@@ -1,11 +1,6 @@
 <h2 align="center"> Hi! my name's Isabela Fatima 👋 </h2>
   
 ##
-
-###   About Me:
-  
-  
-  
   
 ### Main Skills:
 
