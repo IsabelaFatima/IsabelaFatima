@@ -18,15 +18,11 @@
 ![Windows](https://img.shields.io/badge/-Windows-e152aa?style=for-the-badge&logo=windows&labelColor=1f004e&color=8C00FF)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-e152aa?style=for-the-badge&logo=linux&labelColor=1f004e&color=8C00FF)&nbsp;
 
-### Other Knowledge:
-
-![typescript](https://img.shields.io/badge/-typescript-e152aa?style=for-the-badge&logo=typescript&labelColor=1f004e&color=8C00FF)&nbsp;
-![MYSQL](https://img.shields.io/badge/-MYSQL-e152aa?style=for-the-badge&logo=MYSQL&labelColor=1f004e&color=8C00FF)&nbsp;
-
 ### Studying:
 
 ![Node.js](https://img.shields.io/badge/-Node.js-e152aa?style=for-the-badge&logo=node.js&labelColor=1f004e&color=8C00FF)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&labelColor=1f004e&color=8C00FF)&nbsp;
+![MYSQL](https://img.shields.io/badge/-MYSQL-e152aa?style=for-the-badge&logo=MYSQL&labelColor=1f004e&color=8C00FF)&nbsp;
 
 
 ## 
