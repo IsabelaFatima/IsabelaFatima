@@ -21,7 +21,6 @@
 ### Studying:
 
 ![Node.js](https://img.shields.io/badge/-Node.js-e152aa?style=for-the-badge&logo=node.js&labelColor=1f004e&color=8C00FF)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&labelColor=1f004e&color=8C00FF)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MYSQL-e152aa?style=for-the-badge&logo=MYSQL&labelColor=1f004e&color=8C00FF)&nbsp;
 
 
